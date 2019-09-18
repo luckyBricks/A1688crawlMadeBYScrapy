@@ -5,4 +5,8 @@
 * 所有的数据存入`MySql`中保存
 * 中间件`middlewares.py`用于设置ip池、分布式爬虫
 
+
+运行方法：使用Terminal或者Shell加载好所有依赖后，按照`setting.py`中配置的数据库方式，直接运行`scrapy crawl test1688Spider`命令
+
+
 Create by Bricks @ 2019
